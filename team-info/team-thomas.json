@@ -1,0 +1,14 @@
+{
+    "team-name" : "team-thomas",
+    "primary-contact" : "tmsdkeys",
+    "team-members" : [
+        "tmsdkeys",
+        "GH-handle",
+        "GH-handle"
+    ],
+    "wallet-addresses" : [
+        "0x00",
+        "0x01",
+        "0x02"
+    ]
+}
