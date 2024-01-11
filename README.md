@@ -55,3 +55,17 @@ Follow all or any of the following:
 - Developer Hub Docs
 - Developer Forum
 - Extra resources (ICS repo, IBC info, Polymer blog, ...)
+
+## Build
+
+Build in whatever repo you want, but for collaboration purposes you might want to make code findable (push to repo, use gitsubmodules, reference in your readme)
+
+What if midway another team reaches out? 
+
+## Submit
+
+Push quest code to your repo (up to you how to manage that)
+
+Make sure it complies to submission standards
+
+
